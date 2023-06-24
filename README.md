@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yslw
-- 🌱 I’m currently learning Python, C++, C#
+- 🌱 I’m currently learning Python, C++, R
 - 📫 How to reach me: here
 
 <!---
